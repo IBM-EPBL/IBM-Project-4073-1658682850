@@ -5,7 +5,7 @@ Team ID:  PNT2022TMID26156
 ### Team members
 ##### Panimalar institute of technology
 - Brinda P
-- Nanditha N
+- Nandhitha N
 - Yuvashree S
 - Shobikka Y
 
