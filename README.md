@@ -1,4 +1,4 @@
-![Banner](/Images/pic.png "Banner")
+![Banner](/Images/pic.jpg "Banner")
 
 Team ID:  PNT2022TMID26156
 # **Web phishing detection**
